@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&text=Welcome%20to%20My%20Profile&reversal=false&section=header&animation=twinkling&textBg=false&fontSize=50&descSize=0)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&text=From%20Ideas%20to%20Interfaces%20—%20Welcome%20to%20My%20Dev%20World%20&reversal=false&section=header&animation=twinkling&textBg=false&fontSize=30&descSize=0)
 
 <!-- TYPING ANIMATION -->
 
