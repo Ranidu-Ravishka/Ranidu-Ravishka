@@ -5,7 +5,7 @@
 
 
 <!-- SKILL ICONS -->
-<p align="">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,ae,apple,au,aws,azure,blender,bootstrap,c,cs,cpp,css,dart,discord,dotnet,figma,flutter,github,githubactions,gmail,html,ai,instagram,java,js,linkedin,nodejs,notion,ps,php,pr,py,react,sublime,visualstudio,vscode" />
   </a>
