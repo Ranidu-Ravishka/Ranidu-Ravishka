@@ -12,4 +12,4 @@
 </p>
 
 <!-- FOOTER BANNER -->
-![Footer]([https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&section=footer](https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&text=Thanks%20for%20stopping%20by%20—%20keep%20building%20awesome%20stuff!&reversal=false&section=footer&animation=twinkling&textBg=false&fontSize=30&descSize=0))
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&text=Thanks%20for%20stopping%20by%20—%20keep%20building%20awesome%20stuff!&reversal=false&section=footer&animation=twinkling&textBg=false&fontSize=30&descSize=0)
